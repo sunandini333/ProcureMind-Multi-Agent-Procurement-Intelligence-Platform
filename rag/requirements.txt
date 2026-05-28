@@ -1,0 +1,17 @@
+# RAG Pipeline — Python dependencies
+# Install with: pip install -r requirements.txt --break-system-packages
+
+# ── Anthropic (LLM calls) ──────────────────────────────────────────────────────
+anthropic>=0.25.0
+
+# ── Vector store ───────────────────────────────────────────────────────────────
+chromadb>=0.5.0
+
+# ── Embeddings + reranking ─────────────────────────────────────────────────────
+sentence-transformers>=3.0.0   # bi-encoder embeddings + cross-encoder reranking
+
+# ── Token counting (optional but recommended) ─────────────────────────────────
+tiktoken>=0.7.0
+
+# ── Standard utilities ─────────────────────────────────────────────────────────
+# No additional deps needed — pipeline uses only stdlib + the above

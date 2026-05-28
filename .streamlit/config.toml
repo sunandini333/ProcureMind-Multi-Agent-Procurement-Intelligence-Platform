@@ -1,0 +1,22 @@
+[theme]
+primaryColor        = "#1565C0"   # blue — matches the STRUCTURED badge
+backgroundColor     = "#FFFFFF"
+secondaryBackgroundColor = "#F0F4FF"
+textColor           = "#1A1A2E"
+font                = "sans serif"
+
+[server]
+# Streamlit Community Cloud ignores these, but useful for local runs
+headless            = true
+enableCORS          = false
+enableXsrfProtection = true
+maxUploadSize       = 10           # MB
+
+[browser]
+# Keeps the tab title clean
+serverAddress       = "localhost"
+gatherUsageStats    = false
+
+[runner]
+# Avoids re-running the whole app on every widget interaction
+fastReruns          = true

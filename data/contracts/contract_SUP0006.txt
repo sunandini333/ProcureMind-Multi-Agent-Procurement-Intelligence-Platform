@@ -1,0 +1,76 @@
+MASTER SUPPLY AGREEMENT
+
+Contract ID  : CTR-SUP0006-2024
+Supplier     : Wood and Sons (SUP0006)
+Category     : Chemicals
+Region       : North America
+Effective    : 2025-04-05
+Expiry       : 2027-04-27
+Payment Terms: Net 60 days
+
+═══════════════════════════════════════════════════════════════
+
+1. SCOPE OF SUPPLY
+   Wood and Sons ("Supplier") agrees to supply Chemicals goods and services
+   to Acme Corp ("Buyer") as described in individual Purchase Orders (POs)
+   issued under this agreement.
+
+2. PRICING & PAYMENT
+   2.1 Unit prices are fixed for the duration of this agreement unless a
+       written amendment is executed by both parties.
+   2.2 Invoices are payable within 60 calendar days of receipt.
+   2.3 Late payments accrue interest at 1.5% per month on outstanding balances.
+   2.4 Price escalation exceeding 5% in any rolling 3-month period requires
+       written justification and Buyer approval prior to invoicing.
+
+3. DELIVERY & SLA OBLIGATIONS
+   3.1 Supplier shall meet the delivery schedule agreed per PO.
+   3.2 SLA compliance target: 94.8% on-time delivery measured monthly.
+   3.3 Delivery delays beyond 7 calendar days trigger a penalty of 2% of the
+       affected PO value per week, capped at 10% of total PO value.
+   3.4 Chronic non-performance (3 consecutive months below SLA target) gives
+       Buyer the right to terminate with 30 days written notice.
+
+4. QUALITY & INSPECTION
+   4.1 Buyer may inspect goods at point of manufacture or delivery.
+   4.2 Non-conforming goods must be replaced within 14 days at Supplier's cost.
+   4.3 Supplier maintains ISO 9001 certification throughout the term.
+
+5. INTELLECTUAL PROPERTY
+   5.1 All custom tooling, designs, and specifications provided by Buyer remain
+       Buyer's sole property.
+   5.2 Supplier grants Buyer a non-exclusive licence to use Supplier's
+       background IP solely for use of the supplied goods.
+
+6. CONFIDENTIALITY
+   Both parties agree to keep the terms of this agreement and any shared
+   technical or commercial information strictly confidential for 5 years
+   post-expiry.
+
+7. FORCE MAJEURE
+   Neither party is liable for delays caused by events beyond reasonable
+   control (natural disasters, strikes, government actions). The affected
+   party must notify the other within 48 hours.
+
+8. TERMINATION
+   8.1 Either party may terminate for material breach with 30 days written
+       notice if the breach is not cured within the notice period.
+   8.2 Buyer may terminate for convenience with 60 days written notice.
+   8.3 Upon termination, all outstanding POs must be fulfilled or cancelled
+       within 30 days.
+
+9. GOVERNING LAW
+   This agreement is governed by the laws of the State of Delaware, USA.
+   Disputes shall be resolved by binding arbitration under AAA rules.
+
+10. RENEWAL
+    This agreement auto-renews for successive 12-month terms unless either
+    party provides written notice of non-renewal at least 90 days before expiry.
+
+═══════════════════════════════════════════════════════════════
+Signed for and on behalf of:
+
+Acme Corp                          Wood and Sons
+_______________________            _______________________
+Chief Procurement Officer          Authorised Signatory
+Date: 2025-04-05        Date: 2025-04-05
