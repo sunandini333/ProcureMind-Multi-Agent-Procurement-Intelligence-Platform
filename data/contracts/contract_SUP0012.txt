@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0012-2024
 Supplier     : Gill, Romero and Rodriguez (SUP0012)
 Category     : Chemicals
 Region       : EMEA
-Effective    : 2025-02-09
-Expiry       : 2026-11-07
+Effective    : 2025-02-24
+Expiry       : 2026-11-22
 Payment Terms: Net 60 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Gill, Romero and Rodriguez
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-02-09        Date: 2025-02-09
+Date: 2025-02-24        Date: 2025-02-24

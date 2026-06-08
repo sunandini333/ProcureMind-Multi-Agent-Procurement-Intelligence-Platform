@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0005-2024
 Supplier     : Lee, Jones and Stanley (SUP0005)
 Category     : Packaging
 Region       : LATAM
-Effective    : 2025-03-03
-Expiry       : 2026-06-10
+Effective    : 2025-03-18
+Expiry       : 2026-06-25
 Payment Terms: Net 60 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Lee, Jones and Stanley
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-03-03        Date: 2025-03-03
+Date: 2025-03-18        Date: 2025-03-18

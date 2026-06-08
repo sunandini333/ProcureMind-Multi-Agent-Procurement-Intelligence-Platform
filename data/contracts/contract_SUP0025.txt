@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0025-2024
 Supplier     : Silva, Mills and Donovan (SUP0025)
 Category     : IT Services
 Region       : North America
-Effective    : 2025-08-06
-Expiry       : 2026-11-13
+Effective    : 2025-08-21
+Expiry       : 2026-11-28
 Payment Terms: Net 60 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Silva, Mills and Donovan
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-08-06        Date: 2025-08-06
+Date: 2025-08-21        Date: 2025-08-21

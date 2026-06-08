@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0004-2024
 Supplier     : Baker, Williams and Stevens (SUP0004)
 Category     : Logistics
 Region       : LATAM
-Effective    : 2025-05-29
-Expiry       : 2027-05-12
+Effective    : 2025-06-13
+Expiry       : 2027-05-27
 Payment Terms: Net 45 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Baker, Williams and Stevens
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-05-29        Date: 2025-05-29
+Date: 2025-06-13        Date: 2025-06-13

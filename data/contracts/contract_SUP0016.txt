@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0016-2024
 Supplier     : Lam-Hayes (SUP0016)
 Category     : Facilities
 Region       : APAC
-Effective    : 2025-12-10
-Expiry       : 2027-04-03
+Effective    : 2025-12-25
+Expiry       : 2027-04-18
 Payment Terms: Net 45 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Lam-Hayes
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-12-10        Date: 2025-12-10
+Date: 2025-12-25        Date: 2025-12-25

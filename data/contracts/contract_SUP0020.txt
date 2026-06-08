@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0020-2024
 Supplier     : White-Ford (SUP0020)
 Category     : Logistics
 Region       : EMEA
-Effective    : 2024-07-07
-Expiry       : 2027-05-13
+Effective    : 2024-07-22
+Expiry       : 2027-05-28
 Payment Terms: Net 45 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          White-Ford
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2024-07-07        Date: 2024-07-07
+Date: 2024-07-22        Date: 2024-07-22

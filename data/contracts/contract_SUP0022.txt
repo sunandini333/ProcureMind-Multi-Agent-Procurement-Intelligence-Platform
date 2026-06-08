@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0022-2024
 Supplier     : Baker-Bowers (SUP0022)
 Category     : IT Services
 Region       : EMEA
-Effective    : 2025-04-15
-Expiry       : 2026-06-19
+Effective    : 2025-04-30
+Expiry       : 2026-07-04
 Payment Terms: Net 45 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Baker-Bowers
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-04-15        Date: 2025-04-15
+Date: 2025-04-30        Date: 2025-04-30

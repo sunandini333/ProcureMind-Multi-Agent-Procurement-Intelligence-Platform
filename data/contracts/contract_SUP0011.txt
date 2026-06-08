@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0011-2024
 Supplier     : Dyer, Potter and Mack (SUP0011)
 Category     : Packaging
 Region       : EMEA
-Effective    : 2024-02-01
-Expiry       : 2026-09-03
+Effective    : 2024-02-16
+Expiry       : 2026-09-18
 Payment Terms: Net 60 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Dyer, Potter and Mack
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2024-02-01        Date: 2024-02-01
+Date: 2024-02-16        Date: 2024-02-16

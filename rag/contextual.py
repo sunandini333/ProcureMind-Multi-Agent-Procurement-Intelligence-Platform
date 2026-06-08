@@ -84,7 +84,7 @@ class ContextualEnricher:
         self.max_doc_words = max_doc_words
         self.request_delay = request_delay
         self.fallback_to_breadcrumb = fallback_to_breadcrumb
-        self._client = anthropic.Anthropic()
+        self._client = call_llm
 
     # ── Public API ─────────────────────────────────────────────────────────────
 

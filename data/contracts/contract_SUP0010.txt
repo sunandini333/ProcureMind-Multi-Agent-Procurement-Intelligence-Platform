@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0010-2024
 Supplier     : Moore, Becker and Carlson (SUP0010)
 Category     : IT Services
 Region       : APAC
-Effective    : 2025-07-09
-Expiry       : 2026-09-04
+Effective    : 2025-07-24
+Expiry       : 2026-09-19
 Payment Terms: Net 30 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Moore, Becker and Carlson
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-07-09        Date: 2025-07-09
+Date: 2025-07-24        Date: 2025-07-24

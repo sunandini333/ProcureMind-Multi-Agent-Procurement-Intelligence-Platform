@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0006-2024
 Supplier     : Wood and Sons (SUP0006)
 Category     : Chemicals
 Region       : North America
-Effective    : 2025-04-05
-Expiry       : 2027-04-27
+Effective    : 2025-04-20
+Expiry       : 2027-05-12
 Payment Terms: Net 60 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Wood and Sons
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-04-05        Date: 2025-04-05
+Date: 2025-04-20        Date: 2025-04-20

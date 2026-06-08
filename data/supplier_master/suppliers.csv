@@ -1,29 +1,29 @@
 supplier_id,supplier_name,category,region,contract_start_date,contract_end_date,days_to_renewal,annual_spend_usd,payment_terms_days,sla_compliance_pct,preferred_vendor,contact_email
-SUP0001,"Rodriguez, Figueroa and Sanchez",Packaging,North America,2025-06-04,2027-03-12,297,1262214.68,45,92.3,True,jillrhodes@miller.com
-SUP0002,Wagner Inc,Professional Services,North America,2026-01-16,2027-02-15,272,513791.44,45,85.9,True,jennifermiles@robinson-lawrence.com
-SUP0003,Wolfe LLC,IT Services,LATAM,2025-06-20,2027-01-31,257,2273584.78,60,94.3,True,eric51@james.com
-SUP0004,"Baker, Williams and Stevens",Logistics,LATAM,2025-05-29,2027-05-12,358,1425463.14,45,98.3,False,dudleynicholas@carter.com
-SUP0005,"Lee, Jones and Stanley",Packaging,LATAM,2025-03-03,2026-06-10,22,1826947.93,60,88.6,True,tracie31@ramirez-reid.com
-SUP0006,Wood and Sons,Chemicals,North America,2025-04-05,2027-04-27,343,440060.98,60,94.8,False,jacqueline19@jackson.biz
-SUP0007,Mayo-Bowman,IT Services,North America,2025-12-24,2027-02-08,265,3323253.43,60,99.1,True,gabriellecameron@perez.com
-SUP0008,Adams-Clark,Professional Services,APAC,2024-03-02,2026-06-09,21,3196638.0,60,76.5,False,jason76@ellis.net
-SUP0009,"Baker, Richards and Hurst",Facilities,North America,2023-11-20,2026-08-04,77,3193142.53,45,76.5,False,icox@snyder.com
-SUP0010,"Moore, Becker and Carlson",IT Services,APAC,2025-07-09,2026-09-04,108,1183787.96,30,94.1,False,djames@king.com
-SUP0011,"Dyer, Potter and Mack",Packaging,EMEA,2024-02-01,2026-09-03,107,4388019.75,60,77.8,False,daniel62@smith-bowen.com
-SUP0012,"Gill, Romero and Rodriguez",Chemicals,EMEA,2025-02-09,2026-11-07,172,741170.08,60,92.5,False,meagan89@hernandez.net
-SUP0013,"Sellers, George and Burns",Professional Services,APAC,2025-07-02,2027-02-11,268,4986762.6,45,86.0,True,hickmannatasha@allen-allen.org
-SUP0014,Miller Group,Raw Materials,North America,2025-12-05,2027-05-10,356,3155857.91,90,88.4,False,spenceamanda@anderson.net
-SUP0015,Baker PLC,Chemicals,APAC,2024-04-13,2026-10-31,165,4310859.53,30,90.7,True,ibrandt@vaughn.com
-SUP0016,Lam-Hayes,Facilities,APAC,2025-12-10,2027-04-03,319,1502825.64,45,84.5,False,jeffreymorgan@spencer.com
-SUP0017,Jones Inc,Logistics,North America,2024-03-31,2026-12-31,226,1527301.72,45,76.2,True,chad34@washington.org
-SUP0018,"Kennedy, Mueller and Aguirre",Raw Materials,APAC,2024-09-07,2027-01-20,246,146409.87,60,96.2,False,clintonhopkins@henderson-owens.com
-SUP0019,"Valdez, Lucas and Brown",Raw Materials,EMEA,2024-01-17,2026-08-19,92,4737399.75,30,92.1,True,lauren13@lee.com
-SUP0020,White-Ford,Logistics,EMEA,2024-07-07,2027-05-13,359,2402647.77,45,79.3,False,ramosmichelle@garcia.com
-SUP0021,House and Sons,IT Services,APAC,2024-06-23,2026-08-05,78,4975989.32,60,84.0,False,richardolson@barrera-martin.com
-SUP0022,Baker-Bowers,IT Services,EMEA,2025-04-15,2026-06-19,31,1723523.53,45,88.2,True,smitchell@cowan.com
-SUP0023,Phillips Inc,Raw Materials,EMEA,2025-03-17,2026-05-25,6,4531829.06,60,73.9,True,adkinsbrian@woods.com
-SUP0024,"Miller, Lopez and Larson",Chemicals,EMEA,2024-03-05,2026-09-08,112,704943.65,90,78.7,False,richarddavid@sanchez.biz
-SUP0025,"Silva, Mills and Donovan",IT Services,North America,2025-08-06,2026-11-13,178,3311964.61,60,83.6,False,elizabethedwards@foster-powers.com
-SUP0026,Stewart-Walton,Raw Materials,North America,2026-02-24,2027-04-27,343,2042975.35,60,94.0,True,smithchristine@ferrell.com
-SUP0027,Mahoney Inc,IT Services,EMEA,2024-02-22,2026-08-24,97,2270637.06,90,77.0,False,mikemoore@warner.net
-SUP0028,Contreras PLC,Packaging,LATAM,2024-02-08,2026-08-24,97,534648.2,30,98.6,True,sarah12@wilson-rodriguez.net
+SUP0001,"Rodriguez, Figueroa and Sanchez",Packaging,North America,2025-06-19,2027-03-27,297,1262214.68,45,92.3,True,jillrhodes@miller.com
+SUP0002,Wagner Inc,Professional Services,North America,2026-01-31,2027-03-02,272,513791.44,45,85.9,True,jennifermiles@robinson-lawrence.com
+SUP0003,Wolfe LLC,IT Services,LATAM,2025-07-05,2027-02-15,257,2273584.78,60,94.3,True,eric51@james.com
+SUP0004,"Baker, Williams and Stevens",Logistics,LATAM,2025-06-13,2027-05-27,358,1425463.14,45,98.3,False,dudleynicholas@carter.com
+SUP0005,"Lee, Jones and Stanley",Packaging,LATAM,2025-03-18,2026-06-25,22,1826947.93,60,88.6,True,tracie31@ramirez-reid.com
+SUP0006,Wood and Sons,Chemicals,North America,2025-04-20,2027-05-12,343,440060.98,60,94.8,False,jacqueline19@jackson.biz
+SUP0007,Mayo-Bowman,IT Services,North America,2026-01-08,2027-02-23,265,3323253.43,60,99.1,True,gabriellecameron@perez.com
+SUP0008,Adams-Clark,Professional Services,APAC,2024-03-17,2026-06-24,21,3196638.0,60,76.5,False,jason76@ellis.net
+SUP0009,"Baker, Richards and Hurst",Facilities,North America,2023-12-05,2026-08-19,77,3193142.53,45,76.5,False,icox@snyder.com
+SUP0010,"Moore, Becker and Carlson",IT Services,APAC,2025-07-24,2026-09-19,108,1183787.96,30,94.1,False,djames@king.com
+SUP0011,"Dyer, Potter and Mack",Packaging,EMEA,2024-02-16,2026-09-18,107,4388019.75,60,77.8,False,daniel62@smith-bowen.com
+SUP0012,"Gill, Romero and Rodriguez",Chemicals,EMEA,2025-02-24,2026-11-22,172,741170.08,60,92.5,False,meagan89@hernandez.net
+SUP0013,"Sellers, George and Burns",Professional Services,APAC,2025-07-17,2027-02-26,268,4986762.6,45,86.0,True,hickmannatasha@allen-allen.org
+SUP0014,Miller Group,Raw Materials,North America,2025-12-20,2027-05-25,356,3155857.91,90,88.4,False,spenceamanda@anderson.net
+SUP0015,Baker PLC,Chemicals,APAC,2024-04-28,2026-11-15,165,4310859.53,30,90.7,True,ibrandt@vaughn.com
+SUP0016,Lam-Hayes,Facilities,APAC,2025-12-25,2027-04-18,319,1502825.64,45,84.5,False,jeffreymorgan@spencer.com
+SUP0017,Jones Inc,Logistics,North America,2024-04-15,2027-01-15,226,1527301.72,45,76.2,True,chad34@washington.org
+SUP0018,"Kennedy, Mueller and Aguirre",Raw Materials,APAC,2024-09-22,2027-02-04,246,146409.87,60,96.2,False,clintonhopkins@henderson-owens.com
+SUP0019,"Valdez, Lucas and Brown",Raw Materials,EMEA,2024-02-01,2026-09-03,92,4737399.75,30,92.1,True,lauren13@lee.com
+SUP0020,White-Ford,Logistics,EMEA,2024-07-22,2027-05-28,359,2402647.77,45,79.3,False,ramosmichelle@garcia.com
+SUP0021,House and Sons,IT Services,APAC,2024-07-08,2026-08-20,78,4975989.32,60,84.0,False,richardolson@barrera-martin.com
+SUP0022,Baker-Bowers,IT Services,EMEA,2025-04-30,2026-07-04,31,1723523.53,45,88.2,True,smitchell@cowan.com
+SUP0023,Phillips Inc,Raw Materials,EMEA,2025-04-01,2026-06-09,6,4531829.06,60,73.9,True,adkinsbrian@woods.com
+SUP0024,"Miller, Lopez and Larson",Chemicals,EMEA,2024-03-20,2026-09-23,112,704943.65,90,78.7,False,richarddavid@sanchez.biz
+SUP0025,"Silva, Mills and Donovan",IT Services,North America,2025-08-21,2026-11-28,178,3311964.61,60,83.6,False,elizabethedwards@foster-powers.com
+SUP0026,Stewart-Walton,Raw Materials,North America,2026-03-11,2027-05-12,343,2042975.35,60,94.0,True,smithchristine@ferrell.com
+SUP0027,Mahoney Inc,IT Services,EMEA,2024-03-08,2026-09-08,97,2270637.06,90,77.0,False,mikemoore@warner.net
+SUP0028,Contreras PLC,Packaging,LATAM,2024-02-23,2026-09-08,97,534648.2,30,98.6,True,sarah12@wilson-rodriguez.net

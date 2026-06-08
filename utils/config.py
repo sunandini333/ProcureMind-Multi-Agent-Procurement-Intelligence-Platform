@@ -30,13 +30,36 @@ def _secret(key: str, default: str = "") -> str:
 ROOT = Path(__file__).resolve().parent.parent
 
 # ── LLM ──────────────────────────────────────────────────────────────────────
-LLM_PROVIDER: str = _secret("LLM_PROVIDER", "anthropic")            # "anthropic" | "bedrock"
-ANTHROPIC_API_KEY: str = _secret("ANTHROPIC_API_KEY", "")
-ANTHROPIC_MODEL: str = "claude-sonnet-4-20250514"
 
-# AWS Bedrock (swap in for Dell environment)
-AWS_REGION: str = os.getenv("AWS_REGION", "us-east-1")
-BEDROCK_MODEL_ID: str = os.getenv("BEDROCK_MODEL_ID", "anthropic.claude-3-sonnet-20240229-v1:0")
+# Supported providers:
+# "gemini" | "anthropic" | "bedrock"
+
+LLM_PROVIDER: str = _secret("LLM_PROVIDER", "gemini")
+
+# Gemini
+GEMINI_API_KEY: str = _secret("GEMINI_API_KEY", "")
+GEMINI_MODEL: str = _secret(
+    "GEMINI_MODEL",
+    "gemini-2.5-flash"
+)
+
+# Anthropic
+ANTHROPIC_API_KEY: str = _secret("ANTHROPIC_API_KEY", "")
+ANTHROPIC_MODEL: str = _secret(
+    "ANTHROPIC_MODEL",
+    "claude-sonnet-4-20250514"
+)
+
+# AWS Bedrock
+AWS_REGION: str = _secret(
+    "AWS_REGION",
+    "us-east-1"
+)
+
+BEDROCK_MODEL_ID: str = _secret(
+    "BEDROCK_MODEL_ID",
+    "anthropic.claude-3-sonnet-20240229-v1:0"
+)
 
 # ── Vector store ─────────────────────────────────────────────────────────────
 VECTOR_STORE_TYPE: str = "chroma"                                    # only chroma for now

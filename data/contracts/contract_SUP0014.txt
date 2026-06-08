@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0014-2024
 Supplier     : Miller Group (SUP0014)
 Category     : Raw Materials
 Region       : North America
-Effective    : 2025-12-05
-Expiry       : 2027-05-10
+Effective    : 2025-12-20
+Expiry       : 2027-05-25
 Payment Terms: Net 90 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Miller Group
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-12-05        Date: 2025-12-05
+Date: 2025-12-20        Date: 2025-12-20

@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0002-2024
 Supplier     : Wagner Inc (SUP0002)
 Category     : Professional Services
 Region       : North America
-Effective    : 2026-01-16
-Expiry       : 2027-02-15
+Effective    : 2026-01-31
+Expiry       : 2027-03-02
 Payment Terms: Net 45 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Wagner Inc
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2026-01-16        Date: 2026-01-16
+Date: 2026-01-31        Date: 2026-01-31

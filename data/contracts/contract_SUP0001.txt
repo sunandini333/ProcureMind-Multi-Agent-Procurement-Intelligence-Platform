@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0001-2024
 Supplier     : Rodriguez, Figueroa and Sanchez (SUP0001)
 Category     : Packaging
 Region       : North America
-Effective    : 2025-06-04
-Expiry       : 2027-03-12
+Effective    : 2025-06-19
+Expiry       : 2027-03-27
 Payment Terms: Net 45 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Rodriguez, Figueroa and Sanchez
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-06-04        Date: 2025-06-04
+Date: 2025-06-19        Date: 2025-06-19

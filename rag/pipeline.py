@@ -143,7 +143,7 @@ class RAGPipeline:
         reranker_override: Optional[BaseReranker] = None,
     ):
         self.config = config or RAGConfig()
-        self._anthropic = anthropic.Anthropic()
+        self._anthropic = call_llm
 
         # ── Vector Store (shared across components) ───────────────────────────
         self.vector_store = ChromaVectorStore(

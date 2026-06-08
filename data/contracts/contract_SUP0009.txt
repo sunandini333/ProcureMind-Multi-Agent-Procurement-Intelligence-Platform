@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0009-2024
 Supplier     : Baker, Richards and Hurst (SUP0009)
 Category     : Facilities
 Region       : North America
-Effective    : 2023-11-20
-Expiry       : 2026-08-04
+Effective    : 2023-12-05
+Expiry       : 2026-08-19
 Payment Terms: Net 45 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Baker, Richards and Hurst
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2023-11-20        Date: 2023-11-20
+Date: 2023-12-05        Date: 2023-12-05

@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0019-2024
 Supplier     : Valdez, Lucas and Brown (SUP0019)
 Category     : Raw Materials
 Region       : EMEA
-Effective    : 2024-01-17
-Expiry       : 2026-08-19
+Effective    : 2024-02-01
+Expiry       : 2026-09-03
 Payment Terms: Net 30 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Valdez, Lucas and Brown
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2024-01-17        Date: 2024-01-17
+Date: 2024-02-01        Date: 2024-02-01

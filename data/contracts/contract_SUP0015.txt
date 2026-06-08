@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0015-2024
 Supplier     : Baker PLC (SUP0015)
 Category     : Chemicals
 Region       : APAC
-Effective    : 2024-04-13
-Expiry       : 2026-10-31
+Effective    : 2024-04-28
+Expiry       : 2026-11-15
 Payment Terms: Net 30 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Baker PLC
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2024-04-13        Date: 2024-04-13
+Date: 2024-04-28        Date: 2024-04-28

@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0017-2024
 Supplier     : Jones Inc (SUP0017)
 Category     : Logistics
 Region       : North America
-Effective    : 2024-03-31
-Expiry       : 2026-12-31
+Effective    : 2024-04-15
+Expiry       : 2027-01-15
 Payment Terms: Net 45 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Jones Inc
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2024-03-31        Date: 2024-03-31
+Date: 2024-04-15        Date: 2024-04-15

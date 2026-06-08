@@ -177,7 +177,7 @@ class RAGFusionRetriever(BaseRetriever):
         self.n_query_variants = n_query_variants
         self.n_results_per_query = n_results_per_query
         self.rrf_k = rrf_k
-        self._client = anthropic.Anthropic()
+        self._client = call_llm
         self._model = model
 
     # ── Public API ─────────────────────────────────────────────────────────────

@@ -4,8 +4,8 @@ Contract ID  : CTR-SUP0007-2024
 Supplier     : Mayo-Bowman (SUP0007)
 Category     : IT Services
 Region       : North America
-Effective    : 2025-12-24
-Expiry       : 2027-02-08
+Effective    : 2026-01-08
+Expiry       : 2027-02-23
 Payment Terms: Net 60 days
 
 ═══════════════════════════════════════════════════════════════
@@ -73,4 +73,4 @@ Signed for and on behalf of:
 Acme Corp                          Mayo-Bowman
 _______________________            _______________________
 Chief Procurement Officer          Authorised Signatory
-Date: 2025-12-24        Date: 2025-12-24
+Date: 2026-01-08        Date: 2026-01-08
