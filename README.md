@@ -1,12 +1,12 @@
-# 🛒 Procurement CoPilot
+#  Procurement CoPilot
 
-An agentic AI assistant for procurement intelligence — powered by **Claude** and **Streamlit**.
+An agentic AI assistant for procurement intelligence — powered by **Gemini** and **Streamlit**.
 
 Ask natural-language questions about supplier spend, SLA performance, contract clauses, purchase orders, and renewal risk. The orchestrator automatically routes to a SQL agent, a RAG contract-analysis agent, or both.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Intent routing** — classifies every question as STRUCTURED / DOCUMENT / HYBRID / OUT OF SCOPE
 - **SQL agent** — translates questions into SQL against a live SQLite procurement database
@@ -17,7 +17,7 @@ Ask natural-language questions about supplier spend, SLA performance, contract c
 
 ---
 
-## 🚀 Deploy to Streamlit Community Cloud (Free)
+## Deploy to Streamlit Community Cloud (Free)
 
 This is the fastest way to get a public URL for your personal branding site.
 
@@ -59,11 +59,12 @@ In **App settings → Secrets**, paste:
 ANTHROPIC_API_KEY = "sk-ant-your-key-here"
 ```
 
-Get your key at [console.anthropic.com](https://console.anthropic.com).
+Get anthropic key at [console.anthropic.com](https://console.anthropic.com).
+get API key at (https://ai.google.dev/gemini-api/docs/api-key)
 
 ---
 
-## 🌐 Add to Your Personal Website
+## Add to Your Personal Website
 
 Once deployed, you have two options:
 
@@ -95,7 +96,7 @@ Embed the app directly into any HTML page:
 
 ---
 
-## 💻 Run Locally
+##  Run Locally
 
 ```bash
 # 1. Clone
@@ -121,7 +122,7 @@ The app opens at [http://localhost:8501](http://localhost:8501).
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 procurement-copilot/
@@ -158,7 +159,7 @@ procurement-copilot/
 
 ---
 
-## 🔧 Regenerate Data (optional)
+## Regenerate Data (optional)
 
 If you want to rebuild the database from scratch with fresh synthetic data:
 
@@ -170,7 +171,7 @@ python -m ingestion.document_ingester
 
 ---
 
-## 🤖 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
